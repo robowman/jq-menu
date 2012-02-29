@@ -23,7 +23,7 @@
 					var $child = $(this).next("ul");
 					
 					if ($child.length)
-						$("a",this).append("<em>+<em>");
+						$("a",this).append("<em>+</em>");
 					else
 						return;
 												

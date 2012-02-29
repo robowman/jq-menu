@@ -18,15 +18,15 @@
 	color: #000;
 }
 .jq-menu-header a{
-	color: #666;
-	background: #ffffff;
-	background-image: -moz-linear-gradient(top, #ffffff, #EEEEEE);
-	background-image: -ms-linear-gradient(top, #ffffff, #EEEEEE);
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#EEEEEE));
-	background-image: -webkit-linear-gradient(top, #ffffff, #EEEEEE);
-	background-image: -o-linear-gradient(top, #ffffff, #EEEEEE);
-	background-image: linear-gradient(top, #ffffff, #EEEEEE);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#EEEEEE",endColorstr="#ffffff",GradientType=0);
+	color: #666666;
+	background: #FFFFFF;
+	background-image: -moz-linear-gradient(top, #FFFFFF, #EEEEEE);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #EEEEEE);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#EEEEEE));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #EEEEEE);
+	background-image: -o-linear-gradient(top, #FFFFFF, #EEEEEE);
+	background-image: linear-gradient(top, #FFFFFF, #EEEEEE);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#EEEEEE",endColorstr="#FFFFFF",GradientType=0);
 }
 .jq-menu ul li a{
 	color: #333;
