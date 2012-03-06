@@ -1,8 +1,6 @@
 .jq-menu{
 	width:200px;
-	padding: 10px;
 	font-family: Arial;
-	background-color: #CCCCCC;
 }
 .jq-menu a{
 	position: relative;
