@@ -29,6 +29,7 @@
 .jq-menu ul li a{
 	color: #333;
 	background: #EEEEEE;
+	padding-left: 15px;
 }
 .jq-menu em{
 	position: absolute;
@@ -43,7 +44,4 @@
 	list-style: none;
 	margin:0;
 	padding:0;
-}
-.jq-menu ul li a{
-	padding-left: 15px;
 }
