@@ -31,7 +31,7 @@
 					
 						var $em = $("em",this);
 						
-						if ($this.data("options").force_one) $("ul").not($child).slideUp($this.data("options").speed);
+						if ($this.data("options").force_one) $("ul",$this).not($child).slideUp($this.data("options").speed);
 						
 						$child.slideToggle($this.data("options").speed,function(){checkSymbol()});
 						
