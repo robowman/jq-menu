@@ -14,6 +14,7 @@
 }
 .jq-menu a:hover{
 	color: #000000;
+	text-decoration: none;
 }
 .jq-menu-header a{
 	color: #666666;
