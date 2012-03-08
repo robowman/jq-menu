@@ -27,8 +27,10 @@
 					else
 						return;
 												
-					$(this).click(function(){
+					$(this).click(function(e){
 					
+						e.preventDefault();
+						
 						var $em = $("em",this);
 						
 						if ($this.data("options").force_one) $("ul",$this).not($child).slideUp($this.data("options").speed);
