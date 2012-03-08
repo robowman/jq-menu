@@ -7,13 +7,13 @@
 	display: block;
 	line-height: 15px;
 	height: 15px;
-	text-shadow: 1px 1px 1px #FFF;
+	text-shadow: 1px 1px 1px #FFFFFF;
 	font-size: 11px;
 	text-decoration: none;
 	padding: 5px 10px;
 }
 .jq-menu a:hover{
-	color: #000;
+	color: #000000;
 }
 .jq-menu-header a{
 	color: #666666;
@@ -30,6 +30,9 @@
 	color: #333;
 	background: #E5E5E5;
 	padding-left: 15px;
+}
+.jq-menu ul li a:hover{
+	background: #CCCCCC;
 }
 .jq-menu em{
 	position: absolute;
