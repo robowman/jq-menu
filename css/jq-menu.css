@@ -12,7 +12,8 @@
 	text-decoration: none;
 	padding: 5px 10px;
 }
-.jq-menu a:hover{
+.jq-menu a:hover,
+.jq-menu a:active{
 	color: #000000;
 	text-decoration: none;
 }
